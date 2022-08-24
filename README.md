@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md. rakib hossain khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rakib hossain khan" height="30" width="40" /></a>
-<a href="https://fb.com/rakib hossain shourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakib hossain shourav" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khan.shourab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakib hossain shourav" height="30" width="40" /></a>
 <a href="https://instagram.com/khan-shourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khan-shourav" height="30" width="40" /></a>
 </p>
 
