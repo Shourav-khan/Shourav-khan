@@ -34,6 +34,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shourav-khan&show_icons=true&locale=en&layout=compact" alt="shourav-khan" /></p>
 
+ ![Snake animation](https://github.com/shourav/shourav/blob/output/github-contribution-grid-snake.svg)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shourav-khan&show_icons=true&locale=en" alt="shourav-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shourav-khan&" alt="shourav-khan" /></p>
