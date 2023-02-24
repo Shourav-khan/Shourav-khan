@@ -10,7 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav-khan&label=Profile%20views&color=0e75b6&style=flat" alt="shourav-khan" /> </p>
 
-- 🔭 I’m currently intern on eCarnivalBD Limited **Offerbuzz LEading App**
+- 🔭 I’m doing my intern on eCarnivalBD Limited **Offerbuzz LEading App**
+- 🔭 I’m currently join at Smart Software Limited 
 
 - 🌱 I’m currently learning **Vue Js**
 
